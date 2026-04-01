@@ -60,7 +60,7 @@ RESUME = {
                 "Built cross-divisional Talent Center of Excellence integrating talent management, L&D, OD, diversity, performance management, and people analytics into a unified global strategy.",
                 "Established the People Analytics function and led inaugural global attrition-prediction project in the Claims division, achieving significant turnover reduction.",
                 "Created global Employee Experience framework informed by Future of Work trends, repositioning Gallagher as an employer of choice for digitally native talent.",
-                "Modernized leadership development with "Leader Profile" framework and Executive Development Program, ensuring a ready-now leadership bench.",
+                "Modernized leadership development with Leader Profile framework and Executive Development Program, ensuring a ready-now leadership bench.",
                 "Strengthened early-career pipeline through GCAP and flagship intern program, engaging 250 high-potential individuals annually.",
             ],
         },
