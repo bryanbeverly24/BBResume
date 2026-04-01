@@ -34,7 +34,7 @@ RESUME = {
                 "Directed end-to-end global talent lifecycle for 23,000 employees across 50+ countries, building a high-performance culture aligned with corporate objectives.",
                 "Implemented Oracle Recruiting Cloud ATS, streamlining 2,000+ requisitions and enabling 500+ global hires monthly while substantially reducing time-to-hire and costs.",
                 "Executed North America warehouse RPO program delivering 1,600 annual placements while lowering recruitment costs, turnover, and time-to-hire through data-driven optimization.",
-                "Designed and launched "Leadership Essentials" program, accelerating development for 1,200 managers annually and building coaching capabilities for human-AI team leadership.",
+                "Designed and launched Leadership Essentials program, accelerating development for 1,200 managers annually and building coaching capabilities for human-AI team leadership.",
                 "Established first global performance management framework using predictive analytics, driving measurable gains in employee performance, engagement, and retention.",
             ],
         },
